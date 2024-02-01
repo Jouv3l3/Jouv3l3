@@ -45,7 +45,7 @@
 <a href="https://instagram.com/https://www.instagram.com/jouvele_lawrence/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="[https://www.youtube.com/user/https://youtu.be/ADODmi8d2qo?si=I-vdOtNKz-wzG7ut](https://www.youtube.com/watch?v=ADODmi8d2qo&t=129s)" target="_blank">
+<a href="https://www.youtube.com/user/https://youtu.be/ADODmi8d2qo?si=I-vdOtNKz-wzG7ut" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
